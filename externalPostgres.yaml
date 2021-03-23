@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Service
+metadata:
+  namespace: hom 
+  name: postgres-postgresql
+spec:
+  type: ExternalName
+  externalName: 12-factors-aks.postgres.database.azure.com
+  clusterIP: ''
