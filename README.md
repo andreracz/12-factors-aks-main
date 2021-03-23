@@ -3,6 +3,8 @@
 
 Esse repositório foi criado para demonstrar como utilizar o AKS (Azure Kubernetes Services) para hospedar microserviços construíoas com os principios [12 factors](http//12factors.net).
 
+A apresentação está aqui: [12 factors em AKS](12-Factors-em-AKS.pdf)
+
 A explicação do repositório e dos princípios estará em um artigo que irei publicar, e linkar aqui, que ainda está em desenvolvimento.
 
 Este exemplo utiliza outros dois repositórios, com o código do microserviço e o código do front-end em angular:
